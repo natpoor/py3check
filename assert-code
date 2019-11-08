@@ -1,2 +1,4 @@
+import sys
+
 assert sys.version_info >= (3, 6)
 print("Python3 check successful!\n")
